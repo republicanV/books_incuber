@@ -1,0 +1,1 @@
+export const LEFTBAR_STATE   = 'LEFTBAR_STATE';
